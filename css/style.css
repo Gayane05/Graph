@@ -1,0 +1,15 @@
+div{
+	width:428px;
+	height:600px;
+	border:1px solid #000000;
+	display:inline-block;
+	float:right;
+}
+
+form{
+	margin-left:10px;
+}
+
+p{
+	margin-left: 5px;
+}
